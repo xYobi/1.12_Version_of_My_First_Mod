@@ -1,4 +1,6 @@
 {
   "item.tutorialmod.dragons_diamond": "Dragons Diamond",
-  "item.tutorialmod.lords_ingot": "Lords Ingot"
+  "item.tutorialmod.lords_ingot": "Lords Ingot",
+  "block.tutorialmod.dragons_diamond_block":"Block of Dragons Diamonds",
+  "block.tutorialmod.dragons_diamond_ore": "Ore of Dragons Diamond"
 }
