@@ -22,6 +22,8 @@ public class ModItemGroups {
                         entries.add(ModItems.DRAGONS_DIAMOND);
                         entries.add(ModBlocks.DRAGONS_DIAMOND_ORE);
                         entries.add(ModBlocks.DRAGONS_DIAMOND_BLOCK);
+                        entries.add(ModBlocks.LORDS_INGOT_ORE);
+                        entries.add(ModBlocks.LORDS_INGOT_BLOCK);
                     })).build());
 
     public static void registerItemGroup()

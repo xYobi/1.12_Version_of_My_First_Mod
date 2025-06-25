@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tutorialmod:lords_ingot"
+
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+
+
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:lords_ingot_block"
+  }
+}

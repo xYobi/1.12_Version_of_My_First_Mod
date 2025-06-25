@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+
+    {
+      "item": "tutorialmod:dragons_diamond_block"
+    }
+
+  ],
+  "result":{
+    "count": 9,
+    "id": "tutorialmod:dragons_diamond"
+  }
+}

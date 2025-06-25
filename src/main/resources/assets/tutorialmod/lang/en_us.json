@@ -1,9 +1,11 @@
 {
-  "item.tutorialmod.dragons_diamond": "Dragons Diamond",
+  "item.tutorialmod.dragons_diamond": "Diamond of Chaos",
   "item.tutorialmod.lords_ingot": "Lords Ingot",
 
-  "block.tutorialmod.dragons_diamond_block":"Block of Dragons Diamonds",
-  "block.tutorialmod.dragons_diamond_ore": "Ore of Dragons Diamond",
+  "block.tutorialmod.dragons_diamond_block":"Block of Chaos Diamonds",
+  "block.tutorialmod.dragons_diamond_ore": "Ore of Chaos Diamond",
+  "block.tutorialmod.lords_ingot_block": "Block of The Lord",
+  "block.tutorialmod.lords_ingot_ore":"Ore of The Lord",
 
-  "itemgroup.tutorialmod.lords_dragons_items": "Lords Dragons Items"
+  "itemgroup.tutorialmod.lords_dragons_items": "Chaos Lord Items"
 }

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:dragons_diamond_block",
+    "tutorialmod:dragons_diamond_ore",
+    "tutorialmod:lords_ingot_ore",
+    "tutorialmod:lords_ingot_block"
+  ]
+
+}

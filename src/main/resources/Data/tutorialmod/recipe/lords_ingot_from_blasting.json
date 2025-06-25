@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "lords_ingot",
+  "ingredient": {
+    "item": "tutorialmod:lords_ingot_ore"
+  },
+  "result": {
+    "id": "tutorialmod:lords_ingot"
+  }
+}
+
+
+
